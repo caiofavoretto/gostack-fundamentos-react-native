@@ -44,6 +44,7 @@
 		00E356EE1AD99517003FC87E /* GoMarketplaceTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GoMarketplaceTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* GoMarketplaceTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GoMarketplaceTests.m; sourceTree = "<group>"; };
+		11721182B57C4699A1F02B0F /* Fontisto.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Fontisto.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Fontisto.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* GoMarketplace.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GoMarketplace.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = GoMarketplace/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = GoMarketplace/AppDelegate.m; sourceTree = "<group>"; };
@@ -51,21 +52,36 @@
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = GoMarketplace/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = GoMarketplace/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = GoMarketplace/main.m; sourceTree = "<group>"; };
+		1C9AEAFFE2E14631AE404A63 /* SimpleLineIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = SimpleLineIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/SimpleLineIcons.ttf"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* GoMarketplace-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "GoMarketplace-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* GoMarketplace-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "GoMarketplace-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		2F88E9A0B9154535A4D8CDD7 /* Zocial.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Zocial.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Zocial.ttf"; sourceTree = "<group>"; };
+		40B27538DFE0461591892D68 /* FontAwesome5_Solid.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Solid.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Solid.ttf"; sourceTree = "<group>"; };
 		4E8E3EF6755D7047AC118D98 /* Pods-GoMarketplace-GoMarketplaceTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoMarketplace-GoMarketplaceTests.release.xcconfig"; path = "Target Support Files/Pods-GoMarketplace-GoMarketplaceTests/Pods-GoMarketplace-GoMarketplaceTests.release.xcconfig"; sourceTree = "<group>"; };
+		576874C98E514BE2B1005BE1 /* FontAwesome5_Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Regular.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Regular.ttf"; sourceTree = "<group>"; };
 		57D58177ACC31085D952AEEC /* Pods-GoMarketplace.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoMarketplace.release.xcconfig"; path = "Target Support Files/Pods-GoMarketplace/Pods-GoMarketplace.release.xcconfig"; sourceTree = "<group>"; };
+		5C92B31725DD46FCB5F878D9 /* AntDesign.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = AntDesign.ttf; path = "../node_modules/react-native-vector-icons/Fonts/AntDesign.ttf"; sourceTree = "<group>"; };
+		5CECC538E8CF446F8A34D8C3 /* FontAwesome.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome.ttf"; sourceTree = "<group>"; };
 		5EC482748F8F6B57BC2301BF /* Pods-GoMarketplace-tvOS.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoMarketplace-tvOS.release.xcconfig"; path = "Target Support Files/Pods-GoMarketplace-tvOS/Pods-GoMarketplace-tvOS.release.xcconfig"; sourceTree = "<group>"; };
 		5FFA3600228EA0EB20329759 /* Pods-GoMarketplace-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoMarketplace-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-GoMarketplace-tvOS/Pods-GoMarketplace-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		6050915AB9204DF3BFD606C8 /* Octicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Octicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Octicons.ttf"; sourceTree = "<group>"; };
 		69699EEDC53C02CA5688E4FD /* Pods-GoMarketplace-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoMarketplace-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-GoMarketplace-tvOSTests/Pods-GoMarketplace-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		79D38CC4ED4B04B350AA05FC /* libPods-GoMarketplace-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoMarketplace-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7E8A321EFB524FE5AE46F669 /* Feather.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Feather.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Feather.ttf"; sourceTree = "<group>"; };
+		88EED5ED36D24D2692183ED5 /* Foundation.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Foundation.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Foundation.ttf"; sourceTree = "<group>"; };
+		97B25C5F0FE147A999BA2C44 /* FontAwesome5_Brands.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = FontAwesome5_Brands.ttf; path = "../node_modules/react-native-vector-icons/Fonts/FontAwesome5_Brands.ttf"; sourceTree = "<group>"; };
+		AA1904AA80B34374802E6EA6 /* Entypo.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Entypo.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Entypo.ttf"; sourceTree = "<group>"; };
 		BC485BCBFA770A7FD08F1609 /* Pods-GoMarketplace-GoMarketplaceTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoMarketplace-GoMarketplaceTests.debug.xcconfig"; path = "Target Support Files/Pods-GoMarketplace-GoMarketplaceTests/Pods-GoMarketplace-GoMarketplaceTests.debug.xcconfig"; sourceTree = "<group>"; };
 		C34120944DAD9D0B331AF31D /* libPods-GoMarketplace-GoMarketplaceTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoMarketplace-GoMarketplaceTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D27867D91BAC546F418CBC28 /* Pods-GoMarketplace.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoMarketplace.debug.xcconfig"; path = "Target Support Files/Pods-GoMarketplace/Pods-GoMarketplace.debug.xcconfig"; sourceTree = "<group>"; };
 		D4204967D62388BDEC0A1A46 /* libPods-GoMarketplace-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoMarketplace-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D49C8B122CB46CE4F9B54D4A /* libPods-GoMarketplace.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GoMarketplace.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		E860796368A44725B946D0A2 /* EvilIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = EvilIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/EvilIcons.ttf"; sourceTree = "<group>"; };
+		E99EF259A5214E2AAB30996E /* MaterialIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialIcons.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		EF0050E248B24EAF80483401 /* Ionicons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = Ionicons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/Ionicons.ttf"; sourceTree = "<group>"; };
+		F2D56160B28745A89937EFE1 /* MaterialCommunityIcons.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = MaterialCommunityIcons.ttf; path = "../node_modules/react-native-vector-icons/Fonts/MaterialCommunityIcons.ttf"; sourceTree = "<group>"; };
 		F5DD04930AB0DB78C3379626 /* Pods-GoMarketplace-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GoMarketplace-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-GoMarketplace-tvOSTests/Pods-GoMarketplace-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -161,8 +177,30 @@
 				F5DD04930AB0DB78C3379626 /* Pods-GoMarketplace-tvOSTests.debug.xcconfig */,
 				69699EEDC53C02CA5688E4FD /* Pods-GoMarketplace-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		722048960C104805B48B5D29 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				5C92B31725DD46FCB5F878D9 /* AntDesign.ttf */,
+				AA1904AA80B34374802E6EA6 /* Entypo.ttf */,
+				E860796368A44725B946D0A2 /* EvilIcons.ttf */,
+				7E8A321EFB524FE5AE46F669 /* Feather.ttf */,
+				5CECC538E8CF446F8A34D8C3 /* FontAwesome.ttf */,
+				97B25C5F0FE147A999BA2C44 /* FontAwesome5_Brands.ttf */,
+				576874C98E514BE2B1005BE1 /* FontAwesome5_Regular.ttf */,
+				40B27538DFE0461591892D68 /* FontAwesome5_Solid.ttf */,
+				11721182B57C4699A1F02B0F /* Fontisto.ttf */,
+				88EED5ED36D24D2692183ED5 /* Foundation.ttf */,
+				EF0050E248B24EAF80483401 /* Ionicons.ttf */,
+				F2D56160B28745A89937EFE1 /* MaterialCommunityIcons.ttf */,
+				E99EF259A5214E2AAB30996E /* MaterialIcons.ttf */,
+				6050915AB9204DF3BFD606C8 /* Octicons.ttf */,
+				1C9AEAFFE2E14631AE404A63 /* SimpleLineIcons.ttf */,
+				2F88E9A0B9154535A4D8CDD7 /* Zocial.ttf */,
+			);
+			name = Resources;
 			sourceTree = "<group>";
 		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
@@ -181,6 +219,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				3BCD41FE66F066883395C418 /* Pods */,
+				722048960C104805B48B5D29 /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -294,6 +333,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = KUKVKWL64J;
 						LastSwiftMigration = 1120;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
@@ -375,7 +415,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh";
+			shellScript = "export NODE_BINARY=node\n../node_modules/react-native/scripts/react-native-xcode.sh\n";
 		};
 		15D051AAC4161DC3EAACC989 /* [CP] Copy Pods Resources */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -728,6 +768,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KUKVKWL64J;
 				ENABLE_BITCODE = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
@@ -740,7 +781,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.caiofavoretto.GoMarketplace;
 				PRODUCT_NAME = GoMarketplace;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -755,6 +796,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = KUKVKWL64J;
 				INFOPLIST_FILE = GoMarketplace/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -762,7 +804,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.caiofavoretto.GoMarketplace;
 				PRODUCT_NAME = GoMarketplace;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
